@@ -41,8 +41,8 @@ claseImp.hola_mundo()
 import math
 print(math.pi)
 #import con alias
-import numpy as np
-arrayT = np.array([1, 2, 3])
+#import numpy as np
+#arrayT = np.array([1, 2, 3])
 #importar todo (no recomendado)
 #from math import *
 
