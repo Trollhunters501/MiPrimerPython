@@ -67,3 +67,23 @@ for clave in diccionario:
     print(clave, diccionario[clave])
 for clave, valor in diccionario.items():
     print(clave, valor)
+
+#ifs true
+if True:
+    print("Hola mundo if")
+if False:
+    print("Esto no existe")
+elif True:
+    print("Hola mundo elseif Python")
+else:
+    print("Hola")
+
+#if var
+test = "Hola"
+if test == "Hola":
+    print(test + " MUndo")
+else:
+    print("Bye")
+#if logics or = || and = && not = !cond
+if not(True):
+    print("No existira esto") 
